@@ -6,6 +6,7 @@
 *.txt
 /test
 /spirv-cross
+/build
 /obj
 /msvc/x64
 /msvc/Debug
